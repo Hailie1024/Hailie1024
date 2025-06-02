@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name's Hailie. I'm a Junior in college. This website is still in the testing phase. 
 <!--
 **Hailie1024/Hailie1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
