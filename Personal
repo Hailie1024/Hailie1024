@@ -1,0 +1,45 @@
+//Lets create a website professional
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to My Professional Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Here you can write a brief introduction about yourself, your background, and your professional journey.</p>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <p>List the services you offer or the skills you possess.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email, insta, </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Hailie Jade Juliano. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
